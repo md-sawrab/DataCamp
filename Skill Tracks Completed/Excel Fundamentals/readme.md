@@ -1,5 +1,7 @@
 ## Excel Fundamentals
 
+#### Completion Date : 5/19/2024
+
 ---
 
 Unlock the power of one of the world’s most popular spreadsheet tools, Excel! Best of all, no prior experience or knowledge is required! Throughout this track, you’ll learn how to prepare, visualize and analyze data through hands-on exercises. You’ll learn valuable skills such as preparing your data for further analysis through features such as PivotTables, V-Lookups, and Excel formulas before creating presentation-ready visualizations and dashboards.
