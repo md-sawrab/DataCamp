@@ -1,6 +1,6 @@
 ## Excel Fundamentals
 
-#### Completion Date : 5/19/2024
+#### Completion Date : 5/20/2024
 
 ---
 
