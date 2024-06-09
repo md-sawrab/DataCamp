@@ -27,6 +27,8 @@
 8. [Case Study: Analyzing Customer Churn in Excel](https://github.com/md-sawrab/DataCamp/tree/main/Courses%20Completed/Excel%20Case%20Study) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/a2ce09ae7c545c2b469cd4d58d17964e4a5c33c2)
 9. [Understanding Machine Learning](https://github.com/md-sawrab/DataCamp/tree/main/Courses%20Completed/Understanding%20Machine%20Learning) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/37fa858d37c3e9f8bd9ceec2e80e8f7a1cbf0da0)
 10. [Introduction to Numpy](https://github.com/md-sawrab/DataCamp/tree/main/Courses%20Completed/Introduction%20to%20NumPy) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/d6ce3bfde2832dac704fa7391b52e5317eb2c68c)
+11. [Data Manipulation with Pandas](https://github.com/md-sawrab/DataCamp/tree/main/Courses%20Completed/Data%20Manipulation%20with%20pandas) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/2665034301394284d10847458020197c18196d83)
+
 
 
 
