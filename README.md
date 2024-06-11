@@ -41,6 +41,7 @@
 
 ### **Projects:** 
 - [Investigating Netflix Movies](https://github.com/md-sawrab/DataCamp/tree/main/Projects/Investigating%20Netflix%20Movies)
+- [Exploring NYC Public School Test Score Results](https://github.com/md-sawrab/DataCamp/tree/main/Projects/Exploring%20NYC%20Public%20School%20Test%20Result%20Scores)
 
 
 ---
