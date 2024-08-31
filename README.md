@@ -29,6 +29,7 @@
 10. [Introduction to Numpy](https://github.com/md-sawrab/DataCamp/tree/main/Courses%20Completed/Introduction%20to%20NumPy) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/d6ce3bfde2832dac704fa7391b52e5317eb2c68c)
 11. [Data Manipulation with Pandas](https://github.com/md-sawrab/DataCamp/tree/main/Courses%20Completed/Data%20Manipulation%20with%20pandas) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/2665034301394284d10847458020197c18196d83)
 12. [Joining Data with pandas](https://github.com/md-sawrab/DataCamp/tree/main/Courses%20Completed/Joining%20Data%20with%20pandas) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/a6482fab094b3b74eeefe0f58dbbc098396bae2a)
+13. [Introduction to SQL](https://github.com/md-sawrab/DataCamp/tree/main/Courses%20Completed/Introduction%20to%20SQL) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/ffc938dcdd87ed5e3ac81ab2ce0dafd829fb7ad9)
 
 
 
