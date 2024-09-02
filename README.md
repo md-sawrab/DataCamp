@@ -30,6 +30,7 @@
 11. [Data Manipulation with Pandas](https://github.com/md-sawrab/DataCamp/tree/main/Courses%20Completed/Data%20Manipulation%20with%20pandas) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/2665034301394284d10847458020197c18196d83)
 12. [Joining Data with pandas](https://github.com/md-sawrab/DataCamp/tree/main/Courses%20Completed/Joining%20Data%20with%20pandas) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/a6482fab094b3b74eeefe0f58dbbc098396bae2a)
 13. [Introduction to SQL](https://github.com/md-sawrab/DataCamp/tree/main/Courses%20Completed/Introduction%20to%20SQL) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/ffc938dcdd87ed5e3ac81ab2ce0dafd829fb7ad9)
+14. [Intermediate SQL](https://github.com/md-sawrab/DataCamp/tree/main/Courses%20Completed/Intermediate%20SQL) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/26f18658b11a1de3916dee4de9d91aaaf3056344)
 
 
 
@@ -44,6 +45,7 @@
 ### **Projects:** 
 - [Investigating Netflix Movies](https://github.com/md-sawrab/DataCamp/tree/main/Projects/Investigating%20Netflix%20Movies)
 - [Exploring NYC Public School Test Score Results](https://github.com/md-sawrab/DataCamp/tree/main/Projects/Exploring%20NYC%20Public%20School%20Test%20Result%20Scores)
+- [Analyzing Students' Mental Health](https://github.com/md-sawrab/DataCamp/tree/main/Projects/Analyzing%20Students'%20Mental%20Health)
 
 
 ---
