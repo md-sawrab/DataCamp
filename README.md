@@ -13,6 +13,7 @@
 ### **Skill Tracks Completed :**
 
 - [Excel Fundamentals](https://github.com/md-sawrab/DataCamp/tree/main/Skill%20Tracks%20Completed/Excel%20Fundamentals) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/7a880df75a19c416e70ed2e03ae057975fdf3653)
+- [GitHub Fundamentals](https://github.com/md-sawrab/DataCamp/tree/main/Skill%20Tracks%20Completed/GitHub%20Fundamentals) | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/5085f260b70f353720f35da314ab5802a74eda2a)
   
 ---
 ### **Courses Completed :**
